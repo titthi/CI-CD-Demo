@@ -4,8 +4,7 @@
     "description": "A Node.js application serving a static HTML file, used for load balancing with NGINX.",
     "main": "server.js",
     "scripts": {
-      "start": "node server.js",
-      "test": "jest"
+      "start": "node server.js"
     },
     "author": "Ummy Habiba",
     "license": "MIT",
